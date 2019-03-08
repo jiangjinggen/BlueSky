@@ -1,0 +1,6 @@
+testName:
+  applicationName: testRedis
+spring:
+  redis:
+    host: 192.168.177.129
+    port: 6379
